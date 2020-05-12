@@ -1,8 +1,8 @@
 # SocialApp
 
 <img src="https://github.com/juhitiwari/SocialApp/blob/master/results/sa1.jpg" width="300" height="500" />        <img src="https://github.com/juhitiwari/SocialApp/blob/master/results/sa2.jpg" width="300" height="500" />
-<img src="https://github.com/juhitiwari/SocialApp/blob/master/results/sa3.jpg" width="300" height="500" />        <img src="https://github.com/juhitiwari/SocialApp/blob/master/results/sa4.jpg" width="300" height="500" />
-<img src="https://github.com/juhitiwari/SocialApp/blob/master/results/sa5.jpg" width="300" height="500" />        <img src="https://github.com/juhitiwari/SocialApp/blob/master/results/sa6.jpg" width="300" height="500" />
+<img src="https://github.com/juhitiwari/SocialApp/blob/master/results/sa3.jpg" width="300" height="500" />        <img src="https://github.com/juhitiwari/SocialApp/blob/master/results/s4.jpg" width="300" height="500" />
+<img src="https://github.com/juhitiwari/SocialApp/blob/master/results/sa5.jpg" width="300" height="500" />        <img src="https://github.com/juhitiwari/SocialApp/blob/master/results/sa6.gif" width="300" height="500" />
 
 SocialApp is a social networking app developed using React Native and Firebase. It allows users to create their profiles using their
 email id and password and post in the form of images and text. Users can view the posts of other users as well. 
